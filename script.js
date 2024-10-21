@@ -6,6 +6,7 @@
 // @author       unkn1wn
 // @match        *://*/*
 // @grant        none
+//@icon          https://raw.githubusercontent.com/JuviGamez/Arc_Browser_F11_Script/refs/heads/main/icon.png
 // ==/UserScript==
 
 (function() {
