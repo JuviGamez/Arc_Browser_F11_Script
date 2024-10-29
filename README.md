@@ -13,5 +13,7 @@ Step 2 : For Violentmonkey, go to this [page](https://raw.githubusercontent.com/
 # UPDATE: Now avaliable as a chrome extension (Arc is heavily based on chromium, which is the core of chrome)
 How to install:
 Step 1: Go to [Releases](https://github.com/JuviGamez/Arc_Browser_F11_Script/releases/tag/1.0.1) and download the zip file
+
 Step 2: Extract the zip file
+
 Step 3: Go to the Arc icon > Extensions > Manage Extensions, turn on developer mode, click load unpacked, and then select the extracted folder
