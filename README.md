@@ -8,6 +8,10 @@ This is a script that allows you to press "CTRL + F11" to fullscreen a webpage, 
 
  - [ChatGPT](chatgpt.com)
 
+## Demo
+
+![](https://github.com/JuviGamez/Arc_Browser_F11_Script/raw/refs/heads/main/demo.gif)
+
 
 ## Why?
 
