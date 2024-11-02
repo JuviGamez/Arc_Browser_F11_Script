@@ -33,5 +33,5 @@ https://github.com/JuviGamez/Arc_Browser_F11_Script/raw/refs/heads/main/script.u
 
 Installing using Chrome Extension
 
-https://github.com/JuviGamez/Arc_Browser_F11_Script/raw/refs/heads/main/installusingextension.md
+https://github.com/JuviGamez/Arc_Browser_F11_Script/blob/main/installusingextension.md
     
