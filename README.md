@@ -1,7 +1,7 @@
 
 # Arc Browser F11 Script
 
-This is a script that allows you to press "CTRL + F11" to fullscreen, because when "F11" is pressed on Arc Browser, it fullscreens it's own window and not the webpage
+This is a script that allows you to press "CTRL + F11" to fullscreen a webpage, because when "F11" is pressed on Arc Browser, it just hides the taskbar
 
 
 ## Acknowledgements
