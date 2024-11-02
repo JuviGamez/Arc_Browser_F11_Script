@@ -6,7 +6,7 @@ This is a script that allows you to press "CTRL + F11" to fullscreen a webpage, 
 
 ## Acknowledgements
 
- - [ChatGPT](chatgpt.com)
+ - [ChatGPT](https://chatgpt.com)
 
 ## Demo
 
