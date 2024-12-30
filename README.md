@@ -1,3 +1,4 @@
+# THIS PROJECT WILL SLOWLY MIGRATE TO "Hyprland Chrome F11" 
 
 # Arc Browser F11 Script
 
